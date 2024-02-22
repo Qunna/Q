@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Small world"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Qunna"
 description              : &description "personal description"
 url                      :  https://qunna.github.io/Q/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://qunna.github.io/Q/" # the subpath of your site, e.g. "/blog"
 repository               : "Qunna/Q"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"  
+  bio              : "Life is about FUN"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University"
   uri              : # URL
   email            : "none@example.org" 
 
