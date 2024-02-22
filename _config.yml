@@ -12,7 +12,7 @@ title                    : "Small world"
 title_separator          : "-"
 name                     : &name "Qunna"
 description              : &description "personal description"
-url                      :  https://qunna.github.io/Q # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://qunna.github.io/Q/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Qunna/Q"
 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          :# "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
