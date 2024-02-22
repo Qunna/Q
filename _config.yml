@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Qunna"
 description              : &description "personal description"
 url                      :  https://qunna.github.io/Q/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://qunna.github.io/Q/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Qunna/Q"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "Qunna/Q"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Qunna"
   pronouns         : "she/her"  
   bio              : "Life is about FUN"
   location         : "Earth"
